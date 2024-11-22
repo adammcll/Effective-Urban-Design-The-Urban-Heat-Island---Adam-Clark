@@ -35,7 +35,7 @@ Licenses/restrictions placed on the data: Sustainable Urban Design | Potential T
 DATA & FILE OVERVIEW
 
 File List: 
-Organized into non-City of Calgary sources and City of Calgary open data sources. 
+Organized into non-City of Calgary sources and City of Calgary open data sources. With my personal webmap at bottom.
 
 https://www.sciencedirect.com/science/article/abs/pii/S0301479717309805
 https://www.mdpi.com/2072-4292/8/10/831
@@ -50,7 +50,7 @@ https://www.calgary.ca/parks/trees.html
 https://data.calgary.ca/Environment/Tree-Canopy-2020/eymx-4za9/about_data
 https://www.calgaryclimatehub.ca/calgary_tree_equity
 https://www.calgary.ca/service-lines/2023-2026-city-services/urban-forestry.html?service-line-budget-bar-chart-serviceplanbudgetasadjustedonnov222023-xview=2023&service-line-budget-bar-chart-serviceplanbudgetasadjustedonnov222023-view-open=
-
+https://ucalgary.maps.arcgis.com/home/item.html?id=ad9e8bdb4b0840f19a5dfbec86dc89c4#
 
 
 METHODOLOGICAL INFORMATION
